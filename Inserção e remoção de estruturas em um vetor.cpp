@@ -18,7 +18,6 @@ aluno le_aluno()
     cin >> a.media;
     return a;
 }
-
 /* 
 Recebe vetor de alunos e novo aluno, e insere o novo aluno no final do vetor.
 - v: vetor de alunos
