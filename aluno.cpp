@@ -17,6 +17,5 @@ int main(){
         cout << a.nome << " aprovado(a) em "<< a.disciplina;
     }else{
         cout << a.nome << " reprovado(a) em "<< a.disciplina;
-    }
-   
+    }   
 }
