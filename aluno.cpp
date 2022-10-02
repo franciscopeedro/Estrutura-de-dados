@@ -12,7 +12,6 @@ struct Aluno{
 int main(){
     Aluno a;
     cin>> a.nome >> a.matricula >> a.disciplina >> a.nota;
-
     if(a.nota>=7.00){
         cout << a.nome << " aprovado(a) em "<< a.disciplina;
     }else{
